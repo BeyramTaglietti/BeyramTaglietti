@@ -8,5 +8,5 @@ I've currently used:
  - [x] NextJS
  - [x] Remix
  - [x] Sveltekit
- - [ ] Qwik
+ - [x] Qwik
  - [ ] SolidStart 
