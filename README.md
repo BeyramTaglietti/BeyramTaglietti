@@ -1,12 +1,6 @@
 
 ### Hi there 👋
 
-I'm a frontend developer who loves the everyday chaos of js frameworks
+I'm a software engineer looking for good project ideas to work on
 
-I've currently used:
- - [x] Angular
- - [x] NextJS
- - [x] Remix
- - [x] Sveltekit
- - [x] Qwik
- - [ ] SolidStart 
+Currently engaged with the Typescript DX ♥️
