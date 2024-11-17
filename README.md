@@ -3,4 +3,8 @@
 
 I'm a software engineer looking for good project ideas to work on
 
-Currently engaged with the Typescript DX ♥️
+I most recently created a React SPA boilerplate using the best technologies:
+
+```js
+npx create-beyram-react-app
+```
