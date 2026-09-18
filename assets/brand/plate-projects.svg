@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="96" viewBox="0 0 1280 96" role="img"><defs></defs>
+<rect width="1280" height="96" fill="#000000"/>
+<rect x="2" y="2" width="164" height="92" fill="#FACC15"/>
+<text x="86" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="44" font-weight="900" fill="#000000" letter-spacing="0" text-anchor="middle">01</text>
+<text x="196" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="44" font-weight="900" fill="#ffffff" letter-spacing="8" text-anchor="start">PROJECTS</text>
+<text x="1252" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="22" font-weight="900" fill="#9CA3AF" letter-spacing="2" text-anchor="end">///</text>
+<rect x="2" y="2" width="1276" height="92" fill="none" stroke="#ffffff" stroke-width="4"/></svg>
